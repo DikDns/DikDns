@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DikDns
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning Javascript
-- 📫 How to reach me https://twitter.com/dik_dns or dikdnssocial@gmail.com
+- 📫 How to reach me dikdnssocial@gmail.com
 
 <!---
 DikDns/DikDns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
