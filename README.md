@@ -2,6 +2,8 @@
 - 👀 I’m interested in Game Industry
 - 🌱 I’m currently learning on Developing Website
 - 📫 How to reach me dikdnssocial@gmail.com
+-   🛠 Doing on my Web Portfolio Projects 
+
 
 <!---
 DikDns/DikDns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
