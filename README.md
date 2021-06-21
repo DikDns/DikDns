@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning on Developing Website
 - 📫 How to reach me dikdnssocial@gmail.com
 -   🛠 To Do List :
--   Finishing Documentation Page
--   Create DikDns Portfolio Page
--   Create Andika Eka Kurnia Portfolio Page
--   Create Website with a Login System
+  -   Finishing Documentation Page
+  -   Create DikDns Portfolio Page
+  -   Create Andika Eka Kurnia Portfolio Page
+  -   Create Website with a Login System
 
 
 <!---
