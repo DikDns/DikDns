@@ -3,10 +3,9 @@
 - 🌱 I’m currently learning on Developing Website
 - 📫 How to reach me dikdnssocial@gmail.com
 -   🛠 To Do List :
-  -   Finishing Documentation Sub Page
-  -   Finishing DikDns Portfolio Page
-  -   Create Andika Eka Kurnia Sub Page
-  -   Create Dynamic Web Page
+  -   Finishing DikDns Portfolio Project 1.0
+  -   Turn DikDns Portfolio Project into Dynamic Web Page
+  -   Create basic chess game with any programming language
 
 
 <!---
