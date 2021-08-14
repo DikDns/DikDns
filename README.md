@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DikDns
-- 👀 I’m interested in Game Industry
-- 🌱 I’m currently learning on Developing Website
+- 👋 Hi, I’m ##@DikDns
+- 👀 I’m interested in ##Game Industry
+- 🌱 I’m currently learning on ##Developing Website
 - 📫 How to reach me dikdnssocial@gmail.com
--   🛠 To Do List :
+-  ## 🛠 To Do List :
   -   Add hi3rd section to the main page
   -   Add link to the documention from the content about page
   -   Add css classes documentation for the main page
