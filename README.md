@@ -5,6 +5,7 @@
 - 🛠 To Do List :
   -   Add hi3rd section to the main page
   -   Add link to the documention from the content about page
+  -   Learn Basic Markdown Language
   -   Add css classes documentation for the main page
   -   Finish styling the tictactoe game project
   -   Turn DikDns Portfolio Project into Dynamic Web Page
