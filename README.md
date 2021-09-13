@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning on Developing Website
 - 📫 How to reach me dikdnssocial@gmail.com
 - 🛠 To Do List :
-  -   Learn Basic Markdown Language
+  -   Finish Js OOP with project
+  -   Learn Basic Markdown Language for documentation
   -   Add css classes documentation for the main page
   -   Finish styling the tictactoe game project
   -   Turn DikDns Portfolio Project into Dynamic Web Page
