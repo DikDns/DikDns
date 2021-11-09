@@ -13,15 +13,13 @@
 
 ![DikDns's GitHub stats](https://github-readme-stats.vercel.app/api?username=DikDns&show_icons=true&theme=cobalt)
 
-![DikDns Portfolio Card](https://github-readme-stats.vercel.app/api/pin/?username=DikDns&repo=dikdns.github.io&show_icons=true&theme=cobalt)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DikDns&show_icons=true&theme=cobalt&layout=compact)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/DikDns/dikdns.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DikDns&repo=dikdns.github.io&show_icons=true&theme=cobalt" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/sitcomsmanda/sitcomsmanda.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sitcomsmanda&repo=sitcomsmanda.github.io&show_icons=true&theme=cobalt" />
 </a>
 
 
