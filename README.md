@@ -13,7 +13,7 @@
 
 ![DikDns's GitHub stats](https://github-readme-stats.vercel.app/api?username=DikDns&show_icons=true&theme=cobalt)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DikDns&repo=github-readme-stats&show_icons=true&theme=cobalt)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DikDns&repo=dikdns.github.io&show_icons=true&theme=cobalt)
 
 <!---
 DikDns/DikDns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
