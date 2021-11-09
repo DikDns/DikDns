@@ -11,7 +11,7 @@
   -   Create basic chess game with any programming language
 
 
-(https://github-readme-stats.vercel.app/api?username=DikDns&show_icons=true)
+![DikDns's GitHub stats](https://github-readme-stats.vercel.app/api?username=DikDns&show_icons=true)
 
 
 <!---
