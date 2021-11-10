@@ -12,11 +12,14 @@
 
 ### My Github Stats
 <div>
+  
   <span>
-  <img style="width:70%;" align="center" src="https://github-readme-stats.vercel.app/api?username=DikDns&show_icons=true&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DikDns&show_icons=true&theme=cobalt" />
   </span>
   
-  <span><img style="width:30%;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikDns&show_icons=true&theme=cobalt&layout=compact" /></span>
+  <span>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikDns&show_icons=true&theme=cobalt&layout=compact" />
+  </span>
   
  </div>
  
