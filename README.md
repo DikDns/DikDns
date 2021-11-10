@@ -13,16 +13,12 @@
 ### My Github Stats
 <div align="center">
   <img style="width:90%;" align="center" src="https://github-readme-stats.vercel.app/api?username=DikDns&show_icons=true&theme=cobalt" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikDns&show_icons=true&theme=cobalt&layout=compact" />
  </div>
  
- 
+### My Wakatime Stats
 <div align="center">
-  <span>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikDns&show_icons=true&theme=cobalt&layout=compact" />
-  </span>
-  <span>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DikDns&show_icons=true&theme=cobalt&layout=compact" />
-  </span>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DikDns&show_icons=true&theme=cobalt&layout=compact" />
 </div>
 
 ## Repository
