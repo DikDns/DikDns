@@ -18,10 +18,10 @@
  
 <div align="center">
   <span>
-    <img style="width:70%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikDns&show_icons=true&theme=cobalt&layout=compact" />
+    <img align="center" style="width:70%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikDns&show_icons=true&theme=cobalt&layout=compact" />
   </span>
   <span>
-    <img style="width:30%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=DikDns&show_icons=true&theme=cobalt&layout=compact" />
+    <img align="center" style="width:30%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=DikDns&show_icons=true&theme=cobalt&layout=compact" />
   </span>
 </div>
 
