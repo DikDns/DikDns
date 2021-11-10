@@ -14,11 +14,11 @@
 <div>
   
   <span>
-  <img align="center" style="height:20%;" src="https://github-readme-stats.vercel.app/api?username=DikDns&show_icons=true&theme=cobalt" />
+  <img align="center" style="width:300px;" src="https://github-readme-stats.vercel.app/api?username=DikDns&show_icons=true&theme=cobalt" />
   </span>
   
   <span>
-    <img align="center" style="height:20%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikDns&show_icons=true&theme=cobalt&layout=compact" />
+    <img align="center" style="width:300px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikDns&show_icons=true&theme=cobalt&layout=compact" />
   </span>
   
  </div>
