@@ -17,6 +17,9 @@
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikDns&show_icons=true&theme=cobalt&layout=compact" />
 
+</div>
+
+<div align=center>
   <a href="https://github.com/DikDns/dikdns.github.io">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DikDns&repo=dikdns.github.io&show_icons=true&theme=cobalt" />
   </a>
