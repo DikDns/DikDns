@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DikDns
+# 👋 Hi, I’m @DikDns
 - 👀 I’m interested in Game Industry
 - 🌱 I’m currently learning on Developing Website
 - 📫 How to reach me dikdnssocial@gmail.com
