@@ -18,8 +18,10 @@
  
 <div align="center">
   <img style="width:70%;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikDns&show_icons=true&theme=cobalt&layout=compact" />
-  <img style="width:30%;" align="center" src="https://https://github-readme-stats.vercel.app/api/wakatime?username=DikDns" />
+  <img style="width:30%;" align="center" src="" />
 </div>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DikDns)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <div align="center">
   <a href="https://github.com/DikDns/dikdns.github.io">
