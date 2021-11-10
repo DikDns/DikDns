@@ -11,15 +11,17 @@
   -   Create basic chess game with any programming language
 
 
-<div align=center>
+<div align="center">
 
-  <img style="width:100%;" align="center" src="https://github-readme-stats.vercel.app/api?username=DikDns&show_icons=true&theme=cobalt" />
-
-  <img style="width:100%;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikDns&show_icons=true&theme=cobalt&layout=compact" />
-
+  <img style="width:90%;" align="center" src="https://github-readme-stats.vercel.app/api?username=DikDns&show_icons=true&theme=cobalt" />
+ </div>
+ 
+<div align="center">
+  <img style="width:70%;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikDns&show_icons=true&theme=cobalt&layout=compact" />
+  <img style="width:30%;" align="center" src="https://https://github-readme-stats.vercel.app/api/wakatime?username=DikDns&show_icons=true&theme=cobalt&layout=compact" />
 </div>
 
-<div align=center>
+<div align="center">
   <a href="https://github.com/DikDns/dikdns.github.io">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DikDns&repo=dikdns.github.io&show_icons=true&theme=cobalt" />
   </a>
