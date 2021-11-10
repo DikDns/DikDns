@@ -12,8 +12,8 @@
 
 ### My Github Stats
 <div>
-  <img style="width:400px;" src="https://github-readme-stats.vercel.app/api?username=DikDns&show_icons=true&theme=cobalt" />
-  <img style="width:400px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikDns&show_icons=true&theme=cobalt&layout=compact" />
+  <img style="width:450px;" src="https://github-readme-stats.vercel.app/api?username=DikDns&show_icons=true&theme=cobalt" />
+  <img style="width:450px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikDns&show_icons=true&theme=cobalt&layout=compact" />
  </div>
  
 ### My Wakatime Stats
