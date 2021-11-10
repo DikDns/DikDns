@@ -10,13 +10,13 @@
   -   Turn DikDns Portfolio Project into Dynamic Web Page
   -   Create basic chess game with any programming language
 
-### My Github Stats
+# My Github Stats
 <div>
-  <img style="width:450px;" src="https://github-readme-stats.vercel.app/api?username=DikDns&show_icons=true&theme=cobalt" />
-  <img style="width:450px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikDns&show_icons=true&theme=cobalt&layout=compact" />
+  <img style="width:500px;" src="https://github-readme-stats.vercel.app/api?username=DikDns&show_icons=true&theme=cobalt" />
+  <img style="width:500px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikDns&show_icons=true&theme=cobalt&layout=compact" />
  </div>
  
-### My Wakatime Stats
+## My Wakatime Stats
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DikDns&show_icons=true&theme=cobalt&layout=compact" />
 </div>
