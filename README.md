@@ -11,7 +11,7 @@
  
 ## My Wakatime Stats
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@DikDns&show_icons=true&theme=cobalt&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DikDns&theme=cobalt&layout=compact" />
 </div>
 
 ## Repository
