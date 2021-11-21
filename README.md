@@ -25,7 +25,6 @@
 </div>
 
 ### 🛠 To Do List :
-  -   Finish Js OOP with project
   -   Recap Cpp for sitcom material
   -   Learn Basic Markdown Language for documentation
   -   Add css classes documentation for the main page
