@@ -26,6 +26,7 @@
 
 ### 🛠 To Do List :
   -   Recap Cpp for sitcom material
+  -   Make sort algorithms or etc, like in the std library
   -   Learn Basic Markdown Language for documentation
   -   Add css classes documentation for the main page
   -   Finish styling the tictactoe game project
