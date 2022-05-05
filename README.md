@@ -12,13 +12,3 @@
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DikDns&theme=cobalt" />
 </div>
-
-## Repository
-<div>
-  <a href="https://github.com/DikDns/dikdns.github.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DikDns&repo=dikdns.github.io&show_icons=true&theme=cobalt" />
-  </a>
-  <a href="https://github.com/sitcomsmanda/sitcomsmanda.github.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sitcomsmanda&repo=sitcomsmanda.github.io&show_icons=true&theme=cobalt" />
-  </a>
-</div>
