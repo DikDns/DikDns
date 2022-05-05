@@ -22,17 +22,3 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sitcomsmanda&repo=sitcomsmanda.github.io&show_icons=true&theme=cobalt" />
   </a>
 </div>
-
-### 🛠 To Do List :
-  -   Recap Cpp for sitcom material
-  -   Learn PHP
-  -   Make sort algorithms or etc, like in the std library
-  -   Learn Basic Markdown Language for documentation
-  -   Add css classes documentation for the main page
-  -   Finish styling the tictactoe game project
-  -   Turn DikDns Portfolio Project into Dynamic Web Page
-  -   Create basic chess game with any programming language
-<!---
-DikDns/DikDns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
