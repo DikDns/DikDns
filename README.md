@@ -12,7 +12,7 @@
 
 ### Other Social Media
 
-## [<img width="26px" style="color: white;" alt="arrow up right from square solid icon" src="src/images/arrow-up-right-from-square-solid.svg" style="padding-right:10px;" />][social-media]
+## [<img width="26px" alt="arrow up right from square solid icon" src="src/images/arrow-up-right-from-square-solid.svg" style="padding-right:10px;" />][social-media]
 
 ---
 
