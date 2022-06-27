@@ -12,9 +12,7 @@
 
 ### Other Social Media
 
-## [<img width="128px" alt="arrow up right from square solid and dikdns icon" src="src/images/link-dikdns-com.svg" style="padding-right:10px;" />][social-media]
-
----
+[<img width="128px" alt="arrow up right from square solid and dikdns icon" src="src/images/link-dikdns-com.svg" style="padding-right:10px;" />][social-media]
 
 ### Github Stats
 
@@ -23,7 +21,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DikDns&theme=cobalt" />
 </div>
 
----
 
 ### Languages and Tools
 
@@ -35,8 +32,6 @@
 [<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][website]
-
----
 
 [website]: https://www.dikdns.com
 [social-media]: https://link.dikdns.com
