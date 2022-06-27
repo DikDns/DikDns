@@ -1,37 +1,46 @@
-# 👋 Hi, I’m @DikDns
-- 👀 I’m interested in Game Industry
-- 🌱 I’m currently learning on Developing Website
-- 📫 How to reach me dikdnssocial@gmail.com || <a href="https://discordapp.com/users/168393351186481153" target="_blank">My Discord</a>
+# 👋 Hello, I'm [DikDns][website]
 
-# My Github Stats
+[![Website](https://img.shields.io/website?label=dikdns.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.dikdns.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/dikdns_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdikdns_&screen_name=dikdns_)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCekKhkXSv6RdD9rXkW2ZvDA?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+
+## 🚸 Junior Programmer
+
+-   🌱 Currently learning on developing web
+-   👀 Interested in game industry
+-   🏫 Student at SMA Negeri 2 Bandung
+
+### Other Social Media
+
+## [<img alt="arrow up right from square solid icon" src="src/images/arrow-up-right-from-square-solid.svg" style="padding-right:10px;" />][social-media]
+
+---
+
+### Github Stats
+
 <div>
-  <img style="width:500px;" src="https://github-readme-stats.vercel.app/api?username=DikDns&show_icons=true&theme=cobalt" />
- </div>
- 
-## My Wakatime Stats
-<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DikDns&show_icons=true&theme=cobalt" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DikDns&theme=cobalt" />
 </div>
 
-<h1 align="center">Hi 👋, I'm DikDns</h1>
-<h3 align="center">Test</h3>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dikdns&label=Profile%20views&color=0e75b6&style=flat" alt="dikdns" /> </p>
+### Languages and Tools
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dikdns" alt="dikdns" /></a> </p>
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][website]
 
-<p align="left"> <a href="https://twitter.com/dikdns_" target="blank"><img src="https://img.shields.io/twitter/follow/dikdns_?logo=twitter&style=for-the-badge" alt="dikdns_" /></a> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dikdns_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dikdns_" height="30" width="40" /></a>
-<a href="https://instagram.com/dikdns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dikdns" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dikdnsiswatching" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dikdnsiswatching" height="30" width="40" /></a>
-<a href="https://discord.gg/168393351186481153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="168393351186481153" height="30" width="40" /></a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dikdns&show_icons=true&locale=en&layout=compact" alt="dikdns" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dikdns&show_icons=true&locale=en" alt="dikdns" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dikdns&" alt="dikdns" /></p>
+[website]: https://www.dikdns.com
+[social-media]: https://link.dikdns.com
+[twitter]: https://twitter.com/dikdns_
+[youtube]: https://www.youtube.com/channel/UCekKhkXSv6RdD9rXkW2ZvDA
+[instagram]: https://instagram.com/dikdns
+[linkedin]: https://linkedin.com/in/dikdns
