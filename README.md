@@ -12,22 +12,7 @@
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DikDns&theme=cobalt" />
 </div>
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-10523
-Fork on GitHub
-2634
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm DikDns</h1>
 <h3 align="center">Test</h3>
 
