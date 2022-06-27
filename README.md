@@ -12,7 +12,7 @@
 
 ### Other Social Media
 
-## [<img width="512px" alt="arrow up right from square solid and dikdns icon" src="src/images/link-dikdns-com" style="padding-right:10px;" />][social-media]
+## [<img width="512px" alt="arrow up right from square solid and dikdns icon" src="src/images/link-dikdns-com.png" style="padding-right:10px;" />][social-media]
 
 ---
 
