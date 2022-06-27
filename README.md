@@ -15,13 +15,13 @@
 [<img width="128px" alt="arrow up right from square solid and dikdns icon" src="src/images/link-dikdns-com.svg" style="padding-right:10px;" />][social-media]
 
 ### Github Stats
-<details>
-  <summary>...</summary>
+
 <div>
+<details>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DikDns&show_icons=true&theme=cobalt" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DikDns&theme=cobalt" />
-</div>
 </details>
+</div>
 
 ### Languages and Tools
 
