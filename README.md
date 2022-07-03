@@ -13,7 +13,7 @@
 
 ### Other Social Media
 
-[<img width="128px" alt="arrow up right from square solid and dikdns icon" src="src/images/link-dikdns-com.svg" style="padding-right:10px;" />][social-media]
+Check them here: [https://link.dikdns.com][social-media]
 
 ### Github Stats
 
