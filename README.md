@@ -7,6 +7,7 @@
 
 ## 🚸 Junior Programmer
 
+-   💁‍♂️ Focusing on my last year of highschool
 -   🌱 Currently learning on developing web
 -   👀 Interested in game industry
 -   🏫 Student at SMA Negeri 2 Bandung
