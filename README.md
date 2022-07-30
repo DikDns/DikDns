@@ -27,15 +27,13 @@ Check them here: [https://link.dikdns.com][social-media]
 
 ### Languages and Tools
 [![VsCode](https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)][website]
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)][website]
+[![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)][website]
 [![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)][website]
-
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][website]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][website]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][website]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][website]
-[<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />][website]
-[<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="padding-right:10px;" />][website]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][website]
+[![NodeJS](https://img.shields.io/badge/node%20js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)][website]
+[![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=FFFFFF)][website]
+[![Unity](https://img.shields.io/badge/UNITY-000000?style=for-the-badge&logo=unity&logoColor=FFFFFF)][website]
+[![FIGMA](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFFFFF)][website]
 
 [website]: https://www.dikdns.com
 [social-media]: https://link.dikdns.com
