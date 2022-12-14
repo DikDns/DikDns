@@ -1,7 +1,6 @@
 # 👋 Hello, I'm [DikDns][website]
 
-[![Website](https://img.shields.io/website?label=dikdns.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.dikdns.com)
-[![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dikdns)
+[![Website](https://img.shields.io/website?label=dikdns.com&style=for-the-badge&url=https%3A%2F%2Fwww.dikdns.com)](https://www.dikdns.com)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCekKhkXSv6RdD9rXkW2ZvDA?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![wakatime](https://wakatime.com/badge/user/5622e569-0d07-41d0-8afd-2527cdab9678.svg?style=for-the-badge)](https://wakatime.com/@5622e569-0d07-41d0-8afd-2527cdab9678)
 
