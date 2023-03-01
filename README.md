@@ -6,12 +6,8 @@
 ## 🚸 Junior Programmer
 
 -   💁‍♂️ Focusing on my last year of highschool
--   🌱 Currently learning on developing web
 -   👀 Interested in game industry
 -   🏫 Student at SMA Negeri 2 Bandung
-
-### Other Social Media
-Here: [https://link.dikdns.com][social-media]
 
 ### Github Stats
 
@@ -33,7 +29,6 @@ Here: [https://link.dikdns.com][social-media]
 [![FIGMA](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFFFFF)][website]
 
 [website]: https://www.dikdns.com
-[social-media]: https://link.dikdns.com
 [twitter]: https://twitter.com/dikdns_
 [youtube]: https://www.youtube.com/channel/UCekKhkXSv6RdD9rXkW2ZvDA
 [instagram]: https://instagram.com/dikdns
