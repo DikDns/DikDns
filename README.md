@@ -5,9 +5,8 @@
 
 ## 🚸 Junior Programmer
 
--   💁‍♂️ Focusing on my last year of highschool
+-   💁‍♂️ Focusing on how to deal with client :)
 -   👀 Interested in game industry
--   🏫 Student at SMA Negeri 2 Bandung
 
 ### Github Stats
 
