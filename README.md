@@ -13,7 +13,7 @@
 <div>
 <details>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DikDns&show_icons=true&theme=cobalt" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@DikDns&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DikDns&theme=cobalt" />
 </details>
 </div>
 
