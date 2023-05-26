@@ -5,7 +5,7 @@
 
 ## 🚸 Junior Programmer
 
--   💁‍♂️ Focusing on how to deal with client
+-   💁‍♂️ Focusing on web development
 -   👀 Interested in game industry
 
 ### Github Stats
