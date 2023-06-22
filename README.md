@@ -1,4 +1,4 @@
-# 👋 Hi, I'm DikDns[linkedid]
+# 👋 Hi, I'm DikDns
 
 [![wakatime](https://wakatime.com/badge/user/5622e569-0d07-41d0-8afd-2527cdab9678.svg?style=for-the-badge)](https://wakatime.com/@5622e569-0d07-41d0-8afd-2527cdab9678)
 
