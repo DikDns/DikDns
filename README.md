@@ -20,7 +20,7 @@
 [![ReactJS](https://img.shields.io/badge/react_js-61DAFB?style=for-the-badge&logo=react&logoColor=black)][linkedin]
 [![NextJS](https://img.shields.io/badge/next_js-000000?style=for-the-badge&logo=Next.js&logoColor=white)][linkedin]
 [![D3JS](https://img.shields.io/badge/D3_js-F9A03C?style=for-the-badge&logo=D3.js&logoColor=white)][linkedin]
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=Tailwind_CSS&logoColor=white)][linkedin]
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=Tailwind&logoColor=white)][linkedin]
 [![NodeJS](https://img.shields.io/badge/node_js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)][linkedin]
 [![Unity](https://img.shields.io/badge/UNITY-000000?style=for-the-badge&logo=unity&logoColor=FFFFFF)][linkedin]
 [![FIGMA](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFFFFF)][linkedin]
