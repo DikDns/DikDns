@@ -17,7 +17,7 @@
 [![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)][linkedin]
 [![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)][linkedin]
 [![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)][linkedin]
-[![ReactJS](https://img.shields.io/badge/react_js-3178C6?style=for-the-badge&logo=react.js&logoColor=white)][linkedin]
+[![ReactJS](https://img.shields.io/badge/react_js-3178C6?style=for-the-badge&logo=react&logoColor=white)][linkedin]
 [![NodeJS](https://img.shields.io/badge/node_js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)][linkedin]
 [![Unity](https://img.shields.io/badge/UNITY-000000?style=for-the-badge&logo=unity&logoColor=FFFFFF)][linkedin]
 [![FIGMA](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFFFFF)][linkedin]
