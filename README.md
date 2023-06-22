@@ -1,19 +1,15 @@
-# 👋 Hello, I'm [DikDns][linkedid]
+# 👋 Hi, I'm DikDns[linkedid]
 
 [![wakatime](https://wakatime.com/badge/user/5622e569-0d07-41d0-8afd-2527cdab9678.svg?style=for-the-badge)](https://wakatime.com/@5622e569-0d07-41d0-8afd-2527cdab9678)
 
 ## 🚸 Junior Programmer
 
--   💁‍♂️ Focusing on web development
--   👀 Interested in game industry
+-   💁‍♂️ Focusing on front-end web development.
+-   👀 Very interested in the video game industry.
 
-### Github Stats
-
-<div>
 <details>
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DikDns" />
 </details>
-</div>
 
 ### Languages and Tools
 [![VsCode](https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)][linkedin]
