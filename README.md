@@ -9,6 +9,7 @@
 
 <details>
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DikDns&theme=transparent" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=dikdns&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 </details>
 
 ### Languages and Tools
