@@ -4,8 +4,8 @@
 
 ## 🚸 Junior Programmer
 
--   💁‍♂️ Focusing on front-end web development.
--   👀 Very interested in the video game industry.
+-   💁‍♂️ Focusing on web development.
+-   👀 Interested in computer vision and AI related field.
 
 <details>
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DikDns" />
