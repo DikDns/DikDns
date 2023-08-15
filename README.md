@@ -10,9 +10,11 @@
   [![GitHub Streak](https://streak-stats.demolab.com?user=dikdns&theme=transparent&hide_border=true)](https://git.io/streak-stats)
   
 <details>
+  <hr></hr>
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DikDns&theme=transparent" />
   <hr></hr>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikDns&layout=pie&theme=transparent" />
+  <hr></hr>
 </details>
 
 ### Languages and Tools
