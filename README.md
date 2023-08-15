@@ -1,6 +1,8 @@
 # 👋 Hi, I'm DikDns
 
-[![wakatime](https://wakatime.com/badge/user/5622e569-0d07-41d0-8afd-2527cdab9678.svg?style=for-the-badge)](https://wakatime.com/@5622e569-0d07-41d0-8afd-2527cdab9678)
+| Column 1 Heading | Column 2 Heading |
+| ---------------- | ---------------- |
+| Some content     | [![wakatime](https://wakatime.com/badge/user/5622e569-0d07-41d0-8afd-2527cdab9678.svg?style=for-the-badge)](https://wakatime.com/@5622e569-0d07-41d0-8afd-2527cdab9678)   |
 
 ## 🚸 Junior Programmer
 
