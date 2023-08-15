@@ -2,7 +2,7 @@
 
 Coding Time | FreeCodeCamp Points 
 --- | ---
-[![wakatime](https://wakatime.com/badge/user/5622e569-0d07-41d0-8afd-2527cdab9678.svg?style=for-the-badge)](https://wakatime.com/@5622e569-0d07-41d0-8afd-2527cdab9678) | [![freeCodeCamp points](https://img.shields.io/freecodecamp/points/dikdns?style=for-the-badge)](https://www.freecodecamp.org/dikdns)
+[![wakatime](https://wakatime.com/badge/user/5622e569-0d07-41d0-8afd-2527cdab9678.svg?style=for-the-badge)](https://wakatime.com/@5622e569-0d07-41d0-8afd-2527cdab9678) | [![freeCodeCamp points](https://img.shields.io/freecodecamp/points/dikdns?style=for-the-badge&logo=freeCodeCamp&labelColor=black&color=white)](https://www.freecodecamp.org/dikdns)
 
 ## 🚸 Junior Programmer
 
