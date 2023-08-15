@@ -1,6 +1,6 @@
 # 👋 Hi, I'm DikDns
 
-Coding Time | freeCodeCamp Points 
+Coding Time | FreeCodeCamp Points 
 --- | ---
 [![wakatime](https://wakatime.com/badge/user/5622e569-0d07-41d0-8afd-2527cdab9678.svg?style=for-the-badge)](https://wakatime.com/@5622e569-0d07-41d0-8afd-2527cdab9678) | [![freeCodeCamp points](https://img.shields.io/freecodecamp/points/dikdns?style=for-the-badge)](https://www.freecodecamp.org/dikdns)
 
@@ -17,6 +17,11 @@ Coding Time | freeCodeCamp Points
   <hr></hr>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikDns&layout=pie&theme=transparent" />
   <hr></hr>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DikDns&theme=transparent" />
+  <hr></hr>
+
+
+  
 </details>
 
 ### Languages and Tools
