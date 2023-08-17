@@ -12,6 +12,8 @@ Coding Time | FreeCodeCamp Points
   [![GitHub Streak](https://streak-stats.demolab.com?user=dikdns&theme=transparent&hide_border=true)](https://linktr.ee/dikdns)
   
 <details>
+  <summary>Stats Detail</summary>
+  
   <hr></hr>
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DikDns&theme=transparent" />
   <hr></hr>
