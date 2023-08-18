@@ -13,11 +13,11 @@ Coding Time | FreeCodeCamp Points
   
 <details>
   <summary>Stats Detail</summary>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DikDns&theme=transparent" />
+  <hr></hr>
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DikDns&theme=transparent" />
   <hr></hr>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikDns&layout=pie&theme=transparent" />
-  <hr></hr>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DikDns&theme=transparent" />
 </details>
 
 ### Languages and Tools
