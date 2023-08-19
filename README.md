@@ -12,19 +12,20 @@ Coding Time | FreeCodeCamp Points
   [![GitHub Streak](https://streak-stats.demolab.com?user=dikdns&theme=transparent&hide_border=true)](https://linktr.ee/dikdns)
   
 <details>
-  <summary>Github Stats Detail</summary>
+  <summary>Github Stats</summary>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DikDns&theme=transparent" />
 </details>
 
   
 <details>
-  <summary>Wakatime Detail</summary>
+  <summary>Wakatime Stats</summary>
    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DikDns&theme=transparent" />
 </details>
-
- 
-  <hr></hr>
+  
+<details>
+  <summary>Most Used Languages</summary>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikDns&layout=pie&theme=transparent" />
+</details>
 
 ### Languages and Tools
 [![VsCode](https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)][linkedin]
