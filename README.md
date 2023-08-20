@@ -9,14 +9,17 @@ Coding Time | FreeCodeCamp Points
 -   💁‍♂️ Focusing on web development.
 -   👀 Interested in computer vision and AI related field.
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=dikdns&theme=transparent&hide_border=true)](https://linktr.ee/dikdns)
+## 📊 Github Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=dikdns&theme=transparent&hide_border=true)](https://linktr.ee/dikdns)
   
+## 🎯 Stats Detail
+
 <details>
   <summary>Github Stats</summary>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DikDns&theme=transparent" />
 </details>
 
-  
 <details>
   <summary>Wakatime Stats</summary>
    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DikDns&theme=transparent" />
