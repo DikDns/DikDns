@@ -15,7 +15,7 @@ Coding Time | FreeCodeCamp Points
   
 ## 🎯 Stats Detail
 
-<details>
+<details open>
   <summary>Github Stats</summary>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DikDns&theme=transparent" />
 </details>
