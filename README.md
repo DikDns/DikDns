@@ -7,6 +7,7 @@ Coding Time | FreeCodeCamp Points
 ## 🚸 Junior Programmer
 
 -   💁‍♂️ Focusing on web development.
+-   🙌 Full-stack web enthusiast.
 -   👀 Interested in computer vision and AI related field.
 
 ## 📊 Github Streak
