@@ -39,9 +39,11 @@
 [![NodeJS](https://img.shields.io/badge/node_js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)][linkedin]
 [![FIGMA](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFFFFF)][linkedin]
 
-Coding Time | FreeCodeCamp Points 
---- | ---
-[![wakatime](https://wakatime.com/badge/user/5622e569-0d07-41d0-8afd-2527cdab9678.svg?style=for-the-badge)](https://wakatime.com/@5622e569-0d07-41d0-8afd-2527cdab9678) | [![freeCodeCamp points](https://img.shields.io/freecodecamp/points/dikdns?style=for-the-badge&logo=freeCodeCamp&labelColor=black&color=white)](https://www.freecodecamp.org/dikdns)
+#### Coding Time 
+[![wakatime](https://wakatime.com/badge/user/5622e569-0d07-41d0-8afd-2527cdab9678.svg?style=for-the-badge)](https://wakatime.com/@5622e569-0d07-41d0-8afd-2527cdab9678)
+
+#### FreeCodeCamp Points
+[![freeCodeCamp points](https://img.shields.io/freecodecamp/points/dikdns?style=for-the-badge&logo=freeCodeCamp&labelColor=black&color=white)](https://www.freecodecamp.org/dikdns)
 
 [twitter]: https://twitter.com/dikdns_
 [youtube]: https://www.youtube.com/channel/UCekKhkXSv6RdD9rXkW2ZvDA
