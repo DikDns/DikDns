@@ -1,7 +1,6 @@
 # 👋 Hi, I'm DikDns
 
-## 🚸 Junior Programmer
-
+-   🚸 Junior Programmer
 -   🙌 Full stack web enthusiast.
 -   👀 Interested in computer vision and AI related field.
 
