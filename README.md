@@ -1,8 +1,8 @@
 # 👋 Hi, I'm DikDns
 
 -   🚸 Junior Programmer
--   🙌 Full stack web enthusiast.
--   👀 Interested in computer vision and AI related field.
+-   🙌 Full stack web enthusiast
+-   🏫 Software Engineering Student
 
 ## 📊 Github Streak
 
