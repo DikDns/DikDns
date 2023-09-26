@@ -2,7 +2,6 @@
 
 -   🚸 Junior Programmer
 -   🙌 Full stack web enthusiast
--   🏫 Software Engineering Student
 
 [![Github Profile](https://komarev.com/ghpvc/?username=dikdns&style=for-the-badge)](https://linktr.ee/dikdns)
 
