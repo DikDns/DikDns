@@ -49,4 +49,4 @@
 [twitter]: https://twitter.com/dikdns_
 [youtube]: https://www.youtube.com/channel/UCekKhkXSv6RdD9rXkW2ZvDA
 [instagram]: https://instagram.com/dikdns
-[linkedin]: https://www.linkedin.com/in/andika-eka-kurnia-4960a5231/
+[linkedin]: https://www.linkedin.com/in/dikdns
