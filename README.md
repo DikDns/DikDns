@@ -46,8 +46,3 @@
 
 #### FreeCodeCamp Points
 [![freeCodeCamp points](https://img.shields.io/freecodecamp/points/dikdns?style=for-the-badge&logo=freeCodeCamp&labelColor=black&color=white)](https://www.freecodecamp.org/dikdns)
-
-[twitter]: https://twitter.com/dikdns_
-[youtube]: https://www.youtube.com/channel/UCekKhkXSv6RdD9rXkW2ZvDA
-[instagram]: https://instagram.com/dikdns
-[linkedin]: https://www.linkedin.com/in/dikdns
