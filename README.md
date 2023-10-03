@@ -1,7 +1,6 @@
 # 👋 Hi, I'm DikDns
 
 -   🚸 Junior Programmer
--   🧑‍💻 Junior Open Source Contributor
 -   🙌 Full stack web enthusiast
 
 [![Github Profile](https://komarev.com/ghpvc/?username=dikdns&style=for-the-badge)](https://linktr.ee/dikdns)
