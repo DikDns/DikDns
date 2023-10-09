@@ -12,7 +12,7 @@
 
 ## 🎯 Stats Detail
 
-<details open>
+<details>
   <summary>Github Stats</summary>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DikDns&theme=transparent" />
 </details>
