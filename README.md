@@ -11,6 +11,11 @@
 ## 🎯 Stats Detail
 
 <details>
+  <summary>Github Summary</summary>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dikdns&theme=transparent" alt="dikdns's GitHub Contribution"/>
+</details>
+
+<details>
   <summary>Github Stats</summary>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DikDns&theme=transparent" />
 </details>
